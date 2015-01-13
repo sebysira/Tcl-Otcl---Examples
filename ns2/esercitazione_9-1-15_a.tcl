@@ -183,8 +183,3 @@ $ns at 0 "$ftp_D_A send $bytes_D_A"
 $ns at 0 "simulation"
 
 $ns run
-
-
-
-
-

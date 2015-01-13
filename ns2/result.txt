@@ -1,0 +1,25 @@
+Il test 1 ha impiegato 3382.7999999980188 secondi
+Il test 2 ha impiegato 3432.1999999979739 secondi
+Il test 3 ha impiegato 3432.4999999979736 secondi
+Il test 4 ha impiegato 3370.3999999980301 secondi
+Il test 5 ha impiegato 3479.1999999979312 secondi
+Il test 6 ha impiegato 3432.3999999979737 secondi
+Il test 7 ha impiegato 3482.0999999979285 secondi
+Il test 8 ha impiegato 3486.5999999979244 secondi
+Il test 9 ha impiegato 3469.8999999979396 secondi
+Il test 10 ha impiegato 3411.8999999979924 secondi
+Il test 11 ha impiegato 3287.2999999981057 secondi
+Il test 12 ha impiegato 3415.6999999979889 secondi
+Il test 13 ha impiegato 3461.1999999979475 secondi
+Il test 14 ha impiegato 3411.9999999979923 secondi
+Il test 15 ha impiegato 3411.199999997993 secondi
+Il test 16 ha impiegato 3473.6999999979362 secondi
+Il test 17 ha impiegato 3403.5999999979999 secondi
+Il test 18 ha impiegato 3429.5999999979763 secondi
+Il test 19 ha impiegato 3403.2999999980002 secondi
+Il test 20 ha impiegato 3371.1999999980294 secondi
+
+Media dei tempi 3422.4399999979823
+Varianza dei tempi 2195.3903999960062
+Dev std dei tempi 46.854993330444579
+Intervallo si confidenza 3405.2067083505322 - 3439.6732916454325
